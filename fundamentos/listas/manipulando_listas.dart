@@ -77,9 +77,4 @@ void main() {
     for(var i in listaInts) '#$i'
   ];
   print(listaStrings);
-
-
-
-
-
 }
