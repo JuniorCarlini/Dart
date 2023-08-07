@@ -1,7 +1,6 @@
 void main() {
-  //declaração normal
-  List <int> listNumeros = [1,2,3];
-
-  var listNumeros2 = [1,2,3];
-
+  //list
+  List listNumeros = <int> [1,2,3];
+  
+  print(listNumeros);
 }
